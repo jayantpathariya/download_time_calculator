@@ -1,7 +1,8 @@
 import React from 'react';
+import Converter from './Converter';
 
 const App = () => {
-  return <div>Hello World</div>;
+  return <Converter />;
 };
 
 export default App;
