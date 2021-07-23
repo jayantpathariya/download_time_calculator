@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/download_time_calculator/static/css/main.51eb0284.chunk.css",
+    "main.js": "/download_time_calculator/static/js/main.0a070e53.chunk.js",
+    "main.js.map": "/download_time_calculator/static/js/main.0a070e53.chunk.js.map",
+    "runtime-main.js": "/download_time_calculator/static/js/runtime-main.4dcccf98.js",
+    "runtime-main.js.map": "/download_time_calculator/static/js/runtime-main.4dcccf98.js.map",
+    "static/js/2.0ef95f63.chunk.js": "/download_time_calculator/static/js/2.0ef95f63.chunk.js",
+    "static/js/2.0ef95f63.chunk.js.map": "/download_time_calculator/static/js/2.0ef95f63.chunk.js.map",
+    "index.html": "/download_time_calculator/index.html",
+    "static/css/main.51eb0284.chunk.css.map": "/download_time_calculator/static/css/main.51eb0284.chunk.css.map",
+    "static/js/2.0ef95f63.chunk.js.LICENSE.txt": "/download_time_calculator/static/js/2.0ef95f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dcccf98.js",
+    "static/js/2.0ef95f63.chunk.js",
+    "static/css/main.51eb0284.chunk.css",
+    "static/js/main.0a070e53.chunk.js"
+  ]
+}
